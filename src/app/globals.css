@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#bg{
+    width: 100%;
+    border-radius: 5px;
+    height: 20px;
+}
